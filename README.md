@@ -25,3 +25,4 @@ I'll be adding daily logs in the `log/` folder or updating a markdown file with 
 | Day | Summary |
 |-----|---------|
 | 1 | Started the challenge, created repo, practiced Arrays |
+| 2 | Solved LeetCode problems on duplicates, element removal, and array patterns using C++ |
