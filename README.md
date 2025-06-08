@@ -19,3 +19,9 @@ I'll be adding daily logs in the `log/` folder or updating a markdown file with 
 ## 🔗 Useful Links
 - [Official Challenge Website](https://www.100daysofcode.com/)
 - [My GitHub Profile](https://github.com/seruliana)
+
+## 📖 Progress Log
+
+| Day | Summary |
+|-----|---------|
+| 1 | Started the challenge, created repo, practiced Arrays |
