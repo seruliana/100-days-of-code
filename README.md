@@ -27,3 +27,4 @@ I'll be adding daily logs in the `log/` folder or updating a markdown file with 
 | 1 | Started the challenge, created repo, practiced Arrays |
 | 2 | Solved LeetCode problems on duplicates, element removal, and array patterns using C++ |
 | 3 | Completed Arrays 101 (In-place ops & conclusion), ready to move on! |
+| 4 | Completed problem Two Sum; no coding (travel) |
